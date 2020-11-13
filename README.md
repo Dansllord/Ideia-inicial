@@ -1,6 +1,6 @@
 # ideia-inicial
 
-# \\\\\\\\\\\\\\\\\BEMVINDO/////////////////#
+# \\\\\\\\\\\\\\\\\BEMVINDO//////#
 
 
 Parabéns, vc leu!
